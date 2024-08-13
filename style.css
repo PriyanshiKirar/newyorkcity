@@ -557,7 +557,9 @@ html ::-webkit-scrollbar {
     #main {
         background-color: rgb(220, 220, 220);
     }
-
+#loader{
+    display: none;
+}
     .loadertext {
         width: 100%;
         display: flex;
