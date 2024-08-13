@@ -685,6 +685,7 @@ html ::-webkit-scrollbar {
         font-family: growth;
         line-height: 1;
         z-index: 99999999999 !important;
+        
         /* background-color: #2a2875; */
 
     }
