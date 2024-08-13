@@ -634,6 +634,7 @@ html ::-webkit-scrollbar {
         font-size: 3.5vw;
         width: 90vw;
         line-height: 1;
+        font-family: sans-serif;
     }
 
 
@@ -691,7 +692,7 @@ html ::-webkit-scrollbar {
     .page2textbox p {
         font-size: 11px;
         width: 80%;
-       top: -160vw !important;
+        top: -160vw !important;
         position: absolute;
         z-index: 9999999 !important;
     }
